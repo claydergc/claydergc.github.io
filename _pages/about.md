@@ -11,7 +11,6 @@ redirect_from:
 About Me
 --------
 
-#I am a fifth year PhD student at Carnegie Mellon University (CMU). I work in the [Robot Exploration Lab](https://roboticexplorationlab.org/) and the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) in the [Robotics Institude](https://www.ri.cmu.edu/). My research advisors are Professor [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) and Professor [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/). Currently, I am working on state estimation for legged robots and complex robotics systems.
 I am lecturer at Antenor Orrego Private University at Trujillo, Peru.
 
 I obtained my B.S in Computer Science from the National University of Trujillo Engineering and M.Phil in Electronic and Computer Engineering from [Hong Kong University of Science & Technology (HKUST)](https://www.ust.hk/) in 2012 and 2015. During my undergraduate study I was the team leader of HKUST Robotics team for three years. This team represented Hong Kong to compete in [ABU Robocon](https://en.wikipedia.org/wiki/ABU_Robocon). During my graduate study I was the team leader of HKUST IARC team in 2014. The team performed very well in [IARC competition](http://www.aerialroboticscompetition.org/), an aerial vehicle competition that has more than 20 years history. Some of my master research work contributed to the flight control algorithm on DJI product autopilot [A3](https://www.dji.com/a3). 
@@ -30,14 +29,14 @@ Other than robotics research, I am also enthusiastic about robotics education. A
 
 Robot Gallery
 ---------------
-<img src='/images/gifs/kick.gif' width='400' height='600'>
-<img src='/images/gifs/monkey.gif' width='400' height='600'>
-<img src='/images/gifs/daisy.gif' width='400' height='600'>
-<img src='/images/gifs/snow.gif' width='400' height='600'>
-<img src='/images/gifs/combine_highbay_good_stepping_0120.gif' width='400' height='600'>
-<img src='/images/gifs/reaction_wheel_mpc2.gif' width='400' height='600'>
-<img src='/images/gifs/campus_compress.gif' width='400' height='600'>
-<img src='/images/gifs/go1_wall_touching.gif' width='400' height='600'>
+#<img src='/images/gifs/kick.gif' width='400' height='600'>
+#<img src='/images/gifs/monkey.gif' width='400' height='600'>
+#<img src='/images/gifs/daisy.gif' width='400' height='600'>
+#<img src='/images/gifs/snow.gif' width='400' height='600'>
+#<img src='/images/gifs/combine_highbay_good_stepping_0120.gif' width='400' height='600'>
+#<img src='/images/gifs/reaction_wheel_mpc2.gif' width='400' height='600'>
+#<img src='/images/gifs/campus_compress.gif' width='400' height='600'>
+#<img src='/images/gifs/go1_wall_touching.gif' width='400' height='600'>
 
 ## Hector SLAM with a Neato XV-11 LiDAR (2019)
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=k4hMCkBH_Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
