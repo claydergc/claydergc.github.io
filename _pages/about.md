@@ -61,4 +61,4 @@ Robot Gallery
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Hw3WJRFMBK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Handwritten numbers recognition (2012)
-<iframe width="560" height="315" src="https://youtu.be/A7Zw7b64shE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7Zw7b64shE?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
