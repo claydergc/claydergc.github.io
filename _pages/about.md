@@ -38,23 +38,27 @@ Robot Gallery
 <img src='/images/gifs/campus_compress.gif' width='400' height='600'>
 <img src='/images/gifs/go1_wall_touching.gif' width='400' height='600'>
 
-## Quadruped Legged Robot Control & Estimation (2020-present)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TP46zgruig4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Hector SLAM with a Neato XV-11 LiDAR (2019)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=k4hMCkBH_Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Faster R-CNN running with only CPU in a NAO robot (2017)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PKmV9E5cT8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9oR7xTKAK3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Hexapod  Legged Robot Control & Estimation (2019-2020)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3L8R5Vx6Z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Brachiation Robot (2019)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sFB8XxQ0tDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Quadrotor Control & Estimation (2012-2014)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k6MX3KqZq-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Mobile robot and computer vision (2015)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=e_907W_Ju60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZkYrlb8Nj8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Moving a robot arm with voice commands (2015)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sh-Uc7KwrGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Pingpong Ball Collector (2011)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iSqDgWFeXnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Moving a robot arm using a EEG-SMT (2014)
+<iframe width="560" height="315" src="https://youtu.be/MiCEIGAyS6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Voice Commands Recognition using a PIC Microcontroller (2012-2013)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Hw3WJRFMBK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Handwritten numbers recognition (2012)
+<iframe width="560" height="315" src="https://youtu.be/A7Zw7b64shE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
