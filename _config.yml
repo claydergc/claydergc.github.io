@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Shuo Yang Personal Website"
+locale                   : "es-PE"
+title                    : "Clayder Gonzalez Personal Website"
 title_separator          : "-"
-name                     : &name "Shuo Yang"
+name                     : &name "Clayder Gonzalez"
 description              : &description "personal description"
-url                      : https://ShuoYangRobotics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://claydergc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ShuoYangRobotics/ShuoYangRobotics.github.io"
+repository               : "https://github.com/claydergc?tab=repositories"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuo Yang"
+  name             : "Clayder Gonzalez"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at Carnegie Mellon University"
-  location         : "Pittsburgh"
+  bio              : "Ms.Sc at Universidad Privada Antenor Orrego"
+  location         : "Trujillo"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fHa301QAAAAJ&hl=en"
-  email            : "shuo.yang.robotics@gmail.com"
+  email            : "claydergc@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ShuoYangRobotics"
+  github           : "claydergc"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shuo-yang-28414660/"
+  linkedin         : "https://www.linkedin.com/in/claydergc/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Lima # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
