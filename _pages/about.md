@@ -11,13 +11,16 @@ redirect_from:
 About Me
 --------
 
-I am lecturer at Antenor Orrego Private University at Trujillo, Peru.
+I am lecturer at Antenor Orrego Private University in Trujillo, Peru. There, I am also a researcher in the Laboratorio de Investigacion Multidisciplinaria (LABINM) where we develop robots oriented to solve problems in local agricultural companies. Currently, I am working in a wheeled mobile robot that can navigate autonomously in blueberry farms.
 
-I obtained my B.S in Computer Science from the [National University of Trujillo](https://www.unitru.edu.pe/) in 2012 and my M.Sc. in Electrical Enginerring from the [University of Chile](https://ingenieria.uchile.cl/sobre-la-fcfm/estructura/departamentos/ingenieria-electrica).
+I obtained my B.S. in Computer Science from the [National University of Trujillo](https://www.unitru.edu.pe/) in 2012 and my M.Sc. in Electrical Enginerring from the [University of Chile](https://ingenieria.uchile.cl/sobre-la-fcfm/estructura/departamentos/ingenieria-electrica). In my master studies my advisor was Professor [Martin Adams](https://www.cec.uchile.cl/~martin/).
 
 
 My Projects Gallery
 ---------------
+
+## Embedded System for Mapping Surfaces using a Livox LiDAR (2021)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDJvvX_dpZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Hector SLAM with a Neato XV-11 LiDAR (2019)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k4hMCkBH_Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
