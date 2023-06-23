@@ -13,7 +13,7 @@ About Me
 
 I am lecturer at Antenor Orrego Private University in Trujillo, Peru. There, I am also a researcher in the Laboratorio de Investigacion Multidisciplinaria (LABINM) where we develop robots oriented to solve problems in local agricultural companies. Currently, I am working in a wheeled mobile robot that can navigate autonomously in blueberry farms.
 
-I obtained my B.S. in Computer Science from the [National University of Trujillo](https://www.unitru.edu.pe/) in 2012 and my M.Sc. in Electrical Enginerring from the [University of Chile](https://ingenieria.uchile.cl/sobre-la-fcfm/estructura/departamentos/ingenieria-electrica). In my master studies my advisor was Professor [Martin Adams](https://www.cec.uchile.cl/~martin/).
+I obtained my B.S. in Computer Science from the [National University of Trujillo](https://www.unitru.edu.pe/) in 2012 and my M.Sc. in Electrical Engineering from the [University of Chile](https://ingenieria.uchile.cl/sobre-la-fcfm/estructura/departamentos/ingenieria-electrica). In my master studies my advisor was Professor [Martin Adams](https://www.cec.uchile.cl/~martin/).
 
 
 My Projects Gallery
