@@ -2,7 +2,7 @@
 title: "Autonomous Navigation of a Four-Wheeled Robot in a Simulated Blueberry Farm Environment"
 collection: publications
 permalink: /publication/2022-12-28-blueberry-farm
-excerpt: 'A Visual-Inertial-Leg Odometry'
+excerpt: 'Simulated Blueberry Farm Environment'
 date: 2022-12-28
 venue: '2022 IEEE ANDESCON'
 paperurl: ''
