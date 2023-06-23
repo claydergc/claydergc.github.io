@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
 
 [Download my CV here](https://github.com/claydergc/claydergc.github.io/blob/master/files/ClayderGonzalez_CV.pdf)
