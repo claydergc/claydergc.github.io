@@ -1,5 +1,5 @@
 ---
-title: "solated words recognition using a low cost microcontroller"
+title: "Isolated words recognition using a low cost microcontroller"
 collection: publications
 permalink: /publication/2013-11-26-voice-recognition
 excerpt: 'CSS LOAM'
