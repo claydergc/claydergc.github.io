@@ -2,7 +2,7 @@
 title: "Isolated words recognition using a low cost microcontroller"
 collection: publications
 permalink: /publication/2013-11-26-voice-recognition
-excerpt: 'CSS LOAM'
+excerpt: 'Voice commands recognition on a dsPIC33ep256gp502'
 date: 2017-10-26
 venue: '2013 III Brazilian Symposium on Computing Systems Engineering'
 paperurl: ''

@@ -1,8 +1,8 @@
 ---
-title: "An improved feature extractor for the Lidar Odometry and Mapping (LOAM) algorithm"
+title: "The nao backpack: An open-hardware add-on for fast software development with the nao robot"
 collection: publications
 permalink: /publication/2017-10-26-the-nao-backpack
-excerpt: 'CSS LOAM'
+excerpt: 'A backpack for NAO robots'
 date: 2017-10-26
 venue: 'RoboCup 2017: Robot World Cup XXI'
 paperurl: ''
